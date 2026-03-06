@@ -1,2 +1,3 @@
 # Aula-06-03
-Trabalhando com Commit
+## Introdução aos comandos do git
+### git init - Comando para  inciar um respositório.
